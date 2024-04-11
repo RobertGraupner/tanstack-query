@@ -1,0 +1,70 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@example.com",
+      "age": 30
+    },
+    {
+      "name": "Adam",
+      "email": "adam@gmail.com",
+      "age": "37",
+      "id": "bzws_C-"
+    },
+    {
+      "name": "Stefan",
+      "email": "stefan@o2.pl",
+      "age": "40",
+      "id": "7mdbCT9"
+    },
+    {
+      "name": "Robert",
+      "email": "robson@gmail.com",
+      "age": "33",
+      "id": "fYYOQQ7"
+    },
+    {
+      "name": "Marek",
+      "email": "marek@o2.pl",
+      "age": "50",
+      "id": "ALQhOKi"
+    },
+    {
+      "name": "Aga",
+      "email": "aga@o2.pl",
+      "age": "20",
+      "id": "j_aul-3"
+    },
+    {
+      "name": "Mateusz",
+      "email": "mateusz@gmail.com",
+      "age": "19",
+      "id": "arA8QoF"
+    },
+    {
+      "name": "Daniel",
+      "email": "daniel@gmail.com",
+      "age": "19",
+      "id": "6DFDEY4"
+    },
+    {
+      "name": "Bartek",
+      "email": "bartek@wp.pl",
+      "age": "60",
+      "id": "5Jj_jGI"
+    },
+    {
+      "name": "Edward",
+      "email": "edek@o2.pl",
+      "age": "75",
+      "id": "ppToYeR"
+    }
+  ]
+}
